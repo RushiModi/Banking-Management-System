@@ -65,3 +65,7 @@ C. Initial Data from Customer and Transaction Tables:
   |   6 | 2020-11-30 |   2000 | withdraw |    1 |
   |   7 | 2020-11-30 |    200 | withdraw |    1 |
   +-----+------------+--------+----------+------+
+  
+ Tips:
+ MySQL.connector is used to make a secure connection between MySQL and Python. 
+ 
