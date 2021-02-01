@@ -26,7 +26,7 @@ Note:
   +-----------+--------------+------+-----+---------+----------------+
   9 rows in set (0.03 sec)
 
-B.Here is the strcure of second table which is Transaction Table
+B.Here is the strcure of second table which is Transaction Table:
 
   mysql> desc transaction;
   +--------+----------+------+-----+---------+----------------+
