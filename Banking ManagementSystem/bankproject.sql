@@ -1,8 +1,6 @@
 -- SQL Language
 -- phpMyAdmin SQL Dump
 -- version 4.7.4
--- https://www.phpmyadmin.net/
---
 -- Host: 127.0.0.1:3306
 -- Server version: 5.7.19
 -- PHP Version: 7.1.9
