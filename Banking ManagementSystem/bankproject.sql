@@ -4,7 +4,6 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Dec 01, 2020 at 09:41 AM
 -- Server version: 5.7.19
 -- PHP Version: 7.1.9
 
